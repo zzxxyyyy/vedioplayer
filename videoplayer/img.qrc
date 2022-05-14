@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>img/backwardfill.png</file>
+        <file>img/pause.png</file>
+        <file>img/play.png</file>
+        <file>img/play_forward_fill.png</file>
+        <file>img/quanping.png</file>
+        <file>img/shengyin.png</file>
+    </qresource>
+</RCC>
